@@ -1,0 +1,6 @@
+@CMSAPIOnetoMany_HostAddress = http://localhost:5276
+
+GET {{CMSAPIOnetoMany_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
